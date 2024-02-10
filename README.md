@@ -2,6 +2,12 @@
 
 Rollin 100 is a simple JavaScript-based game where two players roll dice to accumulate points, aiming to be the first to reach a score of 100.
 
+<div style="display: flex;">
+    <img src="https://github.com/pr2tik1/rollin-dice/assets/34391513/20404cf6-8d02-417b-9dc2-70fbb1b4e67c" alt="Image 1" style="width: 49%;">
+    <img src="https://github.com/pr2tik1/rollin-dice/assets/34391513/df9905cc-070b-4a7a-9d6f-fbf6ddd340ab" alt="Image 2" style="width: 49%;">
+</div>
+
+
 ## Technologies Used
 
 - JavaScript
