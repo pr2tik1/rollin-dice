@@ -77,4 +77,19 @@ btnHold.addEventListener('click', function () {
   }
 });
 
+
+document.querySelector(".btn-top-right").addEventListener("click", function () {
+  const modal = document.getElementById("myModal");
+  modal.style.display = "block";
+ document.querySelector(".close").addEventListener("click", function () {
+    modal.style.display = "none";
+  });
+
+  window.onclick = function (event) {
+    if (event.target == modal) {
+      modal.style.display = "none";
+    }
+  };
+});
+
 btnNew.addEventListener('click', init);
