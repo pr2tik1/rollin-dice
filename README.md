@@ -19,3 +19,8 @@ Players take turns rolling a dice. Each roll adds to their current score. If a p
 ## Demo 
 
 Live demo here : https://codepen.io/Pratik-Kumar-the-typescripter/pen/MWxPopJ
+
+
+## Reference
+
+[The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
