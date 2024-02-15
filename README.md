@@ -24,7 +24,7 @@ Players take turns rolling a dice. Each roll adds to their current score. If a p
 
 ## Demo 
 
-Live demo here : https://codepen.io/Pratik-Kumar-the-typescripter/pen/MWxPopJ
+Live demo here : https://rollin-100.netlify.app/
 
 
 ## Reference
